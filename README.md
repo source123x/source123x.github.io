@@ -1,2 +1,1 @@
-# UrbanaFBLA
-Urbana FBLA website repository. 
+AI Research Paper Website
